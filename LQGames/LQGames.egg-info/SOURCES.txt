@@ -1,0 +1,10 @@
+README.md
+setup.py
+LQGames/LQGames.py
+LQGames/__init__.py
+LQGames.egg-info/PKG-INFO
+LQGames.egg-info/SOURCES.txt
+LQGames.egg-info/dependency_links.txt
+LQGames.egg-info/requires.txt
+LQGames.egg-info/top_level.txt
+tests/test_lq_game.py
