@@ -1,9 +1,5 @@
 # LQGames
 
-Here’s a long description in English that you can use for the package:
-
----
-
 ## Description
 
 `LQGames` is a Python package for simulating and solving Linear Quadratic (LQ) games, suitable for both finite and infinite horizon problems. This package provides tools for modeling dynamic systems with multiple players, each aiming to minimize their individual costs based on the system’s states and control inputs. It includes functions for continuous-time Algebraic Riccati Equations (CARE) solutions, state evolution simulations, and control input calculations, making it ideal for advanced applications in control theory and game theory.
